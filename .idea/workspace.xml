@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32c32d29-d937-4b2a-bb83-3a7276fad723" name="Default Changelist" comment="" />
+    <list default="true" id="32c32d29-d937-4b2a-bb83-3a7276fad723" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_factories.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_factories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l2AvKFnb4FX2YTh9pTM3wzVYuo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,8 +32,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
-  <component name="RunManager" selected="Python.calculator_factories">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="GUI5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Calculator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calculator_factories" />
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.calculator_factories" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.GUI5" />
       </list>
@@ -132,25 +143,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="674" y="0" key="CommitChangelistDialog2" timestamp="1607284073659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="674" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607284073659" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607222674844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607222674844" />
-    <state width="476" height="197" key="GridCell.Tab.0.bottom" timestamp="1607222040102">
+    <state width="476" height="152" key="GridCell.Tab.0.bottom" timestamp="1607312473697">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="476" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607222040102" />
-    <state width="476" height="197" key="GridCell.Tab.0.center" timestamp="1607222040102">
+    <state width="476" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607312473697" />
+    <state width="476" height="152" key="GridCell.Tab.0.center" timestamp="1607312473696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="476" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607222040102" />
-    <state width="476" height="197" key="GridCell.Tab.0.left" timestamp="1607222040102">
+    <state width="476" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607312473696" />
+    <state width="476" height="152" key="GridCell.Tab.0.left" timestamp="1607312473696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="476" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607222040102" />
-    <state width="476" height="197" key="GridCell.Tab.0.right" timestamp="1607222040102">
+    <state width="476" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607312473696" />
+    <state width="476" height="152" key="GridCell.Tab.0.right" timestamp="1607312473696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="476" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607222040102" />
+    <state width="476" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607312473696" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1607280278476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607280278476" />
   </component>
 </project>
